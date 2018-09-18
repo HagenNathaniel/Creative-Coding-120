@@ -4,77 +4,54 @@ function setup() {
 
 // create a canvas 1280 px wide, by 720 px high
 
-  Createcanvas( 1280, 720);
+  createCanvas( 1280, 720);
 
 
 //color background 'grey'
 
-background( 'grey');
-
+background( 'blue');
+}
 // create initial 'body' of monster. using an elongated oval, or ellipse
-
-function draw() {
-  fill('dark blue');
-  ellipse( 10, 10, 30, 80);
-
-  // creates an ellipse, that's taller, than it is wide.
- }
-
-// create a series of ellipses for left arm
-
 function draw(){
-  fill( 'Light Brown');
-  ellipse( 20, 20, 20, 51);
 
-}
+  fill( 'grey');
+  ellipse( 450, 450, 210, 250);
 
-function draw() {
-  fill( 'Light brown');
-  ellipse( 25, 16, 20 51);
 
-}
+  // creates an ellipse, that's taller, than it is wide, for left arm.
 
-// create series of ellipses for right arm.
+    fill( 'brown');
+    ellipse( 325, 430, 30, 150);
 
-function draw(){
-  fill( 'Light Brown');
-  ellipse( 60, 60, 20, 51);
+// create a series of ellipses for right arm.
 
-}
+   fill( 'brown');
+   ellipse( 576, 430, 30, 150);
 
-function draw(){
-  fill( 'Light Brown');
-  ellipse( 65, 65, 20, 51);
+  // create ellipse for left leg.
 
-}
+   fill( 'brown');
+   ellipse( 399, 605, 30, 150);
 
-// create ellipses for left leg.
+   //create ellipse for right leg.
 
-function draw(){
-  fill( ; 'Light Brown');
-  ellipse( 75, 75, 20, 58);
+   fill( 'brown');
+   ellipse( 496, 605, 30, 150);
 
-}
-
-function draw(){
-  fill( 'Light Brown');
-  ellipse( 80, 80, 20, 58);
-
-}
-
-// create ellipses for right leg.
-
-function draw(){
-  fill( 'Light Brown');
-  ellipse( 90, 90, 20, 58);
-
-}
 //Create circle for head. (almost forgot!!)
 
-function draw(){
   fill( 'Red');
-  ellipse( 15, 15, 60, 60 );
+  ellipse( 448, 320, 80, 95 );
 
-}
+  //create circles for eyes, and mouth.
+
+  fill ('white');
+  ellipse (430, 305, 10, 10);
+
+  fill ('white');
+  ellipse (459, 305, 10, 10);
+
+  fill ('white');
+  ellipse (445, 335, 60, 10);
 
 }
