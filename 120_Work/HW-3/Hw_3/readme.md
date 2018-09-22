@@ -1,13 +1,11 @@
-Nathaniel Hagen:
+# Nathaniel Hagen:
 
 
-["Hello World!" Sketch](https://hagennathaniel.github.io/Creative-Coding-120/120_Work/HW-3/Hw_3/)
-
-## Weeks' Work
+Weeks' work
 
  This week's work was, initially easy for me to do, I spent a LOT of time looking at the example code, before I could figure out what was going wrong with mine. And when it was done, I had some issues getting the sketch itself to load, more on that below. The choices I made, were mostly on formatting the words "Hello World" to be centered on the screen canvas I created, which was 1280x720px in size, and that part took me the longest time, I got it as close as I could in the end, and liked how it turned out.
 
-## Steps taken to complete assignment:
+Steps taken to finish assignment
 
  First steps I took to complete the assignment, was to follow along with the examples, after I got mostly comfortable with that, I started messing around with some designs of my own, before deciding on my final result. I would have done some ellipses around the "Hello World" text, if I had had the time left over to do it, but the aforementioned issue I had ate the time I had left to do so.. Second step I took was to decide on a background, I inititally wanted to do the # fae color, but it was too odd of a color, and my eyes didn't appreciate it much..Third step was to get the repo to act like a website, which, as you'll see later, was a 6-7 hour fight.
 
