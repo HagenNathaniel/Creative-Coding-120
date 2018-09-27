@@ -10,7 +10,7 @@ function setup() {
     createCanvas( 1280, 720 );
     background( 'green' );
 
-    frameRate ( 6 );
+    frameRate ( 12 );
 }
 
 function draw() {
@@ -46,6 +46,5 @@ function draw() {
     fill ( 'orange' );
     rect ( mouseX + 4, mouseY -4, 18, 35 );
 
-    fill ('Black');
-    text ("Time is Money Friend!", 640, 0 );
+  
 }
