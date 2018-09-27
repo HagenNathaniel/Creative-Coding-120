@@ -3,7 +3,7 @@
 // setup function, as with my previous HW code, I used 1280x720, which is
 // somewhat the standard resolutions of some tablets, and older laptops.
 // Also, seting it up with a green background, since the theme here is money.
-// As well as dialing back the frameRate of the draw loop to 6 FPS, instead of
+// As well as dialing back the frameRate of the draw loop to 12 FPS, instead of
 // the standard ~60 FPS.
 
 function setup() {
