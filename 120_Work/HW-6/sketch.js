@@ -1,5 +1,5 @@
 
-//creat a canvas, that's 1920x1080 pxl's in size, and blue.
+//creat a canvas, that's 600x600 pxl's in size, and blue.
 
 function setup(){
 
