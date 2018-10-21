@@ -25,7 +25,8 @@ var1 = floor((random()*30)+1);
 
   if (var1 >= 15) {
 
-// if
+// if number generated is greater than 15, the program draws tha ellipse with
+// a maroon fill color, and a silver background.
 
     background('silver');
     fill('maroon');
@@ -34,6 +35,10 @@ var1 = floor((random()*30)+1);
   }
 
   else if (var1 < 15) {
+
+ // elsewise, this statement will be run, which creates a rectangle with a silver
+ // fill color, and a maroon background. it'll also be centered by the middle
+ // of the shape.
 
     background('maroon');
     rectMode(CENTER);
