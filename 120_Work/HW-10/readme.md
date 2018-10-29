@@ -9,3 +9,5 @@ was able to get them running, although not all my changes worked..
 Any issues you helped others with: No, by the time I saw them, (I worked most of the weekend) they were resolved.
 Anything you'd like to explore further: Honestly, I can't think of any. I would love to learn more about
 ways to use arrays though, especially from user input!
+
+NOTE ON CODE: If you use a popup blocker, it may disable the last function in the program!
