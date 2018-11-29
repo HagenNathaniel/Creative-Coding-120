@@ -3,7 +3,7 @@ Final Project Proposal!!
 
 My proposal for this project is an " interactive trivia question" game, with a series of questions pertaining to either pop
 culture references, or gaming questions. it will utilize backgrounds, photos, videos (if time and troubleshooting allows) pertaining to the
-material in the Game.
+material in the Game/pop culture references.
 
 My inspiration for this idea, comes from my first year of Java class with  Professor Steven Stiff of Missoula College. I did a similar thing
 as an assignment there, and I want to try my hand at doing it in a more "interesting" way, since then it was just a "non-interactive" program.
