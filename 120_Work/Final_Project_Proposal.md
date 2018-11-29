@@ -1,3 +1,5 @@
+Final Project Proposal!!
+
 
 My proposal for this project is an " interactive trivia question" game, with a series of questions pertaining to either pop
 culture references, or gaming questions. it will utilize backgrounds, photos, videos (if time and troubleshooting allows) pertaining to the
