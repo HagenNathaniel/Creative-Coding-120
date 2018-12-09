@@ -108,12 +108,14 @@ function gameStart(){
 }
 
 function setupQuestion(){
+  questionBoxes = [];
   answerBoxes = [];
 
   for (var i = 0; i < questions[questionNum].answers.length; i++) {
 
     answerBoxes[i] = new Answers(
       i,
+      question.[questionNum].question,
       questions[questionNum].answers[i].text,
       questions[questionNum].answers[i].isCorrect
     );
