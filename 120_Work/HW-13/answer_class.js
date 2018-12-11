@@ -6,7 +6,7 @@ class Answers {
     this.width = width* 0.5;
     this.height = 40;
     this.posX = width * 0.5;
-    this.posY = this.num * this.height + height*0.125;
+    this.posY = this.num * this.height + height*0.325;
     this.color = { default: 'black', hover: 'green' };
 
     this.mouseOver = false;
@@ -51,6 +51,7 @@ class Answers {
 
         // log answer and move on
         questionAnswered(this.isCorrect);
+        
 
 
     }

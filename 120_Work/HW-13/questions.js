@@ -1,7 +1,7 @@
 let questions = [];
 
 questions[0] = {
-  question: "What is the developer of World of Warcraft?",
+  question: "Who is the developer of World of Warcraft?",
   answers: [
     {text: "Ubisoft", isCorrect: false},
     {text: "Electronic Arts", isCorrect: false},
@@ -64,28 +64,28 @@ questions[6] = {
 };
 
 questions[7] = {
-  question: "",
+  question: "Who developed Crash Bandicoot?",
   answers: [
-    {text: "James Hewlett", isCorrect: false},
-    {text: "Nathan Drake", isCorrect: false},
-    {text: "Gabe Logan", isCorrect: true}
+    {text: "Naughty Dog", isCorrect: true},
+    {text: "Crystal Dynamics", isCorrect: false},
+    {text: "Electronic arts", isCorrect: false}
   ]
 };
 
 questions[8] = {
-  question: "Who is the Antagonist in the syphon Filter Series?",
+  question: "Who is the Antagonist in the Crash Bandicoot Series?",
   answers: [
-    {text: "James Hewlett", isCorrect: false},
-    {text: "Nathan Drake", isCorrect: false},
-    {text: "Gabe Logan", isCorrect: true}
+    {text: "N. Gin", isCorrect: false},
+    {text: "Nitros Brio", isCorrect: false},
+    {text: "Neo Cortex", isCorrect: true}
   ]
 };
 
 questions[9] = {
-  question: "Who is the Antagonist in the syphon Filter Series?",
+  question: "Who is the Antagonist in the second Spyro Game?",
   answers: [
-    {text: "James Hewlett", isCorrect: false},
-    {text: "Nathan Drake", isCorrect: false},
-    {text: "Gabe Logan", isCorrect: true}
+    {text: "Maximo", isCorrect: false},
+    {text: "Ripto", isCorrect: true},
+    {text: "Spyro", isCorrect: false}
   ]
 };
